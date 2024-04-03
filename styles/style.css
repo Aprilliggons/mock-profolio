@@ -48,7 +48,7 @@ p {
   box-shadow: var(--box-shadow);
   color: white;
   border-radius: 4px;
-  padding: 20px 15px;
+  padding: 20px 10px;
   text-decoration: none;
   text-transform: capitalize;
 }
